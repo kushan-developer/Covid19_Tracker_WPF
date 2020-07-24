@@ -8,4 +8,4 @@ A simple WPF application showing cases data of Covid19
 ![](Project_Demos/WPF_Covid19_Demo1.gif)
 
 ### Responsive UI
-![](Project_Demos/WPF_Covid19_Demo1.gif)
+![](Project_Demos/WPF_Covid19_Demo2.gif)
