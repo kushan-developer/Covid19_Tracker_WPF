@@ -9,5 +9,3 @@ A simple WPF application showing cases data of Covid19
 
 ### Responsive UI
 ![](Project_Demos/WPF_Covid19_Demo1.gif)
-
-Developed by @kushan-developer
